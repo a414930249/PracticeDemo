@@ -5,6 +5,7 @@
 ## 项目结构
 ---
 
- - protobuf-demo
+- rpc-demo
+    + protobuf-demo
     + serialize demo (ref: effective java)
  -
