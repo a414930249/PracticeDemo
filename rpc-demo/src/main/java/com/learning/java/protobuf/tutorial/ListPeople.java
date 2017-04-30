@@ -1,6 +1,6 @@
-package com.learning.java.tutorial;
+package com.learning.java.protobuf.tutorial;
 
-import  com.learning.java.tutorial.AddressBookProtos.*;
+import com.learning.java.protobuf.tutorial.AddressBookProtos.*;
 
 import java.io.FileInputStream;
 

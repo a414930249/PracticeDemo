@@ -1,8 +1,8 @@
-package com.learning.java.tutorial;
+package com.learning.java.protobuf.tutorial;
 
 import java.io.*;
 
-import com.learning.java.tutorial.AddressBookProtos.*;
+import com.learning.java.protobuf.tutorial.AddressBookProtos.*;
 /**
  * Created by ruhr on 2017/4/30.
  */

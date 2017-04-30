@@ -1,4 +1,4 @@
-package com.learning.java.tutorial;
+package com.learning.java.protobuf.tutorial;
 
 /**
  * Created by ruhr on 2017/4/30.
