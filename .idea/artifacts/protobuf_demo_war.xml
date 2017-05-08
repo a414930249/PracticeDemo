@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="ProtoBuf-Demo:war">
-    <output-path>$PROJECT_DIR$/rpc-demo/target</output-path>
-    <root id="archive" name="ProtoBuf-Demo.war">
-      <element id="artifact" artifact-name="ProtoBuf-Demo:war exploded" />
-    </root>
-  </artifact>
-</component>
