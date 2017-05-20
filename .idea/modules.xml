@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PracticeDemo.iml" filepath="$PROJECT_DIR$/PracticeDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rpc-demo/ProtoBuf-Demo.iml" filepath="$PROJECT_DIR$/rpc-demo/ProtoBuf-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/http-module/http-module.iml" filepath="$PROJECT_DIR$/http-module/http-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/qbit-demo/qbit-demo.iml" filepath="$PROJECT_DIR$/qbit-demo/qbit-demo.iml" />
