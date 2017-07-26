@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/qbit-demo/pom.xml" />
         <option value="$PROJECT_DIR$/rpc-demo/pom.xml" />
         <option value="$PROJECT_DIR$/reactive-programming/pom.xml" />
+        <option value="$PROJECT_DIR$/hazelcast-module/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-module/pom.xml" />
       </list>
     </option>
   </component>

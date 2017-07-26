@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/rpc-demo/ProtoBuf-Demo.iml" filepath="$PROJECT_DIR$/rpc-demo/ProtoBuf-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hazelcast-module/hazelcast-module.iml" filepath="$PROJECT_DIR$/hazelcast-module/hazelcast-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/http-module/http-module.iml" filepath="$PROJECT_DIR$/http-module/http-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/qbit-demo/qbit-demo.iml" filepath="$PROJECT_DIR$/qbit-demo/qbit-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/reactive-programming/reactive-programming.iml" filepath="$PROJECT_DIR$/reactive-programming/reactive-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-module/redis-module.iml" filepath="$PROJECT_DIR$/redis-module/redis-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-module/spring-module.iml" filepath="$PROJECT_DIR$/spring-module/spring-module.iml" />
     </modules>
   </component>
 </project>

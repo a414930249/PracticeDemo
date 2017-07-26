@@ -28,9 +28,13 @@
         <module name="qbit-demo" />
         <module name="QbitDemo" />
         <module name="reactive-programming" />
+        <module name="redis-module" />
+        <module name="spring-module" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
+      <module name="hazelcast" target="1.5" />
+      <module name="hazelcast-module" target="1.5" />
       <module name="http-module" target="1.5" />
       <module name="PracticeDemo" target="1.5" />
       <module name="protobuf-demo" target="1.5" />
@@ -38,7 +42,9 @@
       <module name="qbit-demo" target="1.5" />
       <module name="QbitDemo" target="1.5" />
       <module name="reactive-programming" target="1.5" />
+      <module name="redis-module" target="1.5" />
       <module name="rpc-demo" target="1.5" />
+      <module name="spring-module" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
